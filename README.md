@@ -17,4 +17,26 @@ Welcome to the **Car Rental System** project — a Java-based simulation that ca
 ---
 
 ## 🧩 Project Structure
+CarRentalSystem/
+│
+├── src/
+│ ├── Objects_Operations/
+│ │ ├── Bill.java
+│ │ ├── Reservation.java
+│ │ └── ...
+│ └── Product/
+│ ├── Car.java
+│ ├── Bike.java
+│ └── Vehicle.java
+│
+├── bin/ # Compiled .class files
+├── .project/.classpath # Eclipse project settings
 
+🎯 Purpose
+This project is intended for:
+
+Practicing Low-Level Design (LLD) concepts
+
+Understanding real-world system breakdowns
+
+Showcasing LLD in interviews and GitHub portfolio
